@@ -10,6 +10,8 @@ npm install
 ```
 npm run electron
 ```
+or
+```
 npm install -g electron-packager
 ```
 ```
