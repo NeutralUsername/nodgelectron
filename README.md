@@ -3,7 +3,7 @@
 the electron client for https://playnodge.com
 
 ## how to use?
-download nodgelectron and https://github.com/NeutralUsername/nodgejs 
+download nodgelectron and https://github.com/NeutralUsername/nodgejs  
 move the contents of nodgejs into the nodgelectron directory 
 and start by using
 ```
