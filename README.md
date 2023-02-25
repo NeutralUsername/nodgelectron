@@ -12,7 +12,7 @@ then start the app with
 ```
 npm run electron
 ```
-or build your own executable with
+or build your own executable with (on windows)
 ```
 npm install -g electron-packager
 ```
