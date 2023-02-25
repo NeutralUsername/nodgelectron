@@ -4,13 +4,15 @@ the electron client for https://playnodge.com
 
 ## how to use?
 download and 
+first use
 ```
 npm install
 ```
+then start the app with
 ```
 npm run electron
 ```
-or
+or build your own executable with
 ```
 npm install -g electron-packager
 ```
