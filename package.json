@@ -1,23 +1,21 @@
 {
-  "name": "my-electron-app",
+  "name": "nodgelectron",
   "version": "1.0.0",
   "main": "electronApp.js",
   "scripts": {
-    "electron": "electron .",
-    "build": "electron-builder --win --x64"
+    "electron": "electron ."
   },
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "electron-builder": "^22.14.13",
     "electron": "^23.1.1"
   },
   
   "build": {
-    "appId": "com.example.my-electron-app",
-    "productName": "My Electron App",
+    "appId": "com.nodg.electron",
+    "productName": "nodgelectron",
     "directories": {
       "output": "dist"
     },
