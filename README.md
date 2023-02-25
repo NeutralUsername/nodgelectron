@@ -3,8 +3,9 @@
 the electron client for https://playnodge.com
 
 ## how to use?
-download https://github.com/NeutralUsername/nodgejs 
-locate the directory and first use
+download nodgelectron and https://github.com/NeutralUsername/nodgejs 
+move the contents of nodgejs into the nodgelectron directory 
+and start by using
 ```
 npm install
 ```
